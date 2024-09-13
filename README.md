@@ -10,19 +10,25 @@ Objectives:
  - Analyze the distribution of positions across different levels or tiers within the company.
 
 Data Analytics Tasks:
+
 A. Hiring Analysis: Gender Distribution
    Goal: To determine the number of male and female hires.
    Approach: Calculate the total number of male and female hires using Excel functions like COUNTIF.
+   
 B. Salary Analysis: Average Salary
    Goal: To calculate the average salary offered by the company.
    Approach: Use Excel's AVERAGE function to calculate the mean salary for all employees.
+   
 C. Salary Distribution: Class Intervals
    Goal: To understand salary distribution by dividing the salaries into class intervals.
    Approach: Define appropriate class intervals (e.g., $0–$10,000, $10,001–$20,000, etc.) and calculate how many salaries fall within each range using FREQUENCY or COUNTIFS.
+   
 D. Departmental Analysis
    Goal: To visualize the proportion of employees across various departments.
    Approach: Create a pie chart or bar graph using a Pivot Table in Excel to show the distribution across departments.
+   
 E. Position Tier Analysis
    Goal: To represent the distribution of employees across different position tiers (e.g., Entry-Level, Mid-Level, Senior-Level).
    Approach: Group positions into tiers and create a stacked bar chart or similar visualization to highlight how many employees are in each tier.
+   
 This analysis helps improve the overall efficiency and effectiveness of the company's hiring process and provides data-driven recommendations to management for future planning.
